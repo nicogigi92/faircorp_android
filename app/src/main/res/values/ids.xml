@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="txt_room_name" type="id" />
+    <item name="txt_window_current_temperature" type="id" />
+    <item name="txt_window_target_temperature" type="id" />
+    <item name="txt_window_status" type="id" />
+</resources>
